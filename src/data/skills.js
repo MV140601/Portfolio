@@ -1,0 +1,21 @@
+ const Skills= [
+    { name: "c" },
+    { name: "C++" },
+    { name: "Python" },
+    { name: "Pandas" },
+    { name: "NumPy" },
+    { name: "Scikit Learn" },
+    { name: "Apache Spark" },
+    { name: "OpenCV" },
+    { name: "PyTorch" },
+    { name: "Huggingface" },
+    { name: "Tensorflow" },
+    { name: "Keras" },
+    { name: "Flax" },
+    { name: "Google Cloud Platform" },
+    { name: "Selenium (Web Scraping)" },
+    { name: "MySQL" },
+  { name: "Postgresql" },
+  { name: "MongoDB" },
+  ];
+   export default Skills
